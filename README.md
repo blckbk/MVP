@@ -6,21 +6,21 @@ As a user I should be able to:
 
 * Create  profile for dates [person]:
 
-  Picture \n
-  Age \n
-  Gender Pronouns \n
-  Occupation \n
-  Rating \n
-  Links to date recap pages \n
+  Picture,
+  Age,
+  Gender Pronouns,
+  Occupation,
+  Rating,
+  Links to date recap pages,
 
 * Sign in using Facebook authentication
 * Add friends via Facebook friends
 * Fill out a form that aggregates date information
 
-  Rating \n
-  Location \n
-  Outfit \n
-  Misc \n
+  Rating,
+  Location,
+  Outfit,
+  Misc,
 
 * Comment on a friend's profile of a matches
 * See notifications when a friend comments
