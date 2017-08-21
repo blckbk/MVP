@@ -10,7 +10,7 @@ As a user I should be able to:
    Gender Pronouns
    Occupation
    Rating
-   Links to date recap pages 
+   Links to date recap pages
 * Sign in using Facebook authentication
 * Add friends via Facebook friends
 * Fill out a form that aggregates date information
