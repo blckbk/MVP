@@ -5,19 +5,23 @@ The minimum viable product requirements
 As a user I should be able to:
 
 * Create  profile for dates [person]:
+
   Picture
   Age
   Gender Pronouns
   Occupation
   Rating
   Links to date recap pages
+
 * Sign in using Facebook authentication
 * Add friends via Facebook friends
 * Fill out a form that aggregates date information
+
   Rating
   Location
   Outfit
   Misc
+  
 * Comment on a friend's profile of a matches
 * See notifications when a friend comments
 
