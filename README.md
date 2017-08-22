@@ -49,4 +49,5 @@ As the back end developer I need:
 * Have a calendar that keeps track of upcoming date information
 * MASH
 * Add pictures
+* Archive frogs
 
